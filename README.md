@@ -1,5 +1,4 @@
 # R: Interactive Visualizations with htmlwidgets
-With Charlie Joey Hadley
 
 ## Contents
 
